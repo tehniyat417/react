@@ -102,7 +102,7 @@ class App extends Component {
           <div className="row">
             <Button handleClick={this.addToInput}>7</Button>
             <Button handleClick={this.addToInput}>8</Button>
-            <Button handleClick={this.addToInput}> <input type="text" id="fname" name="fname"/> <br></br><input type="text" id="fname" name="fname"/></Button>
+            <Button handleClick={this.addToInput}>9</Button>
             <Button handleClick={this.divide}>/</Button>
           </div>
           <div className="row">
